@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "VsCodeJavaProjects_f0a97c40"
+        },
+        {
+            "type": "java",
+            "name": "CaixaDialogo",
+            "request": "launch",
+            "mainClass": "Exercicios.CaixaDialogo",
+            "projectName": "VsCodeJavaProjects_f0a97c40"
+        },
+        {
+            "type": "java",
+            "name": "Nome",
+            "request": "launch",
+            "mainClass": "Exercicios.Nome",
+            "projectName": "VsCodeJavaProjects_f0a97c40"
+        },
+        {
+            "type": "java",
+            "name": "ValorNumerico",
+            "request": "launch",
+            "mainClass": "Exercicios.ValorNumerico",
+            "projectName": "VsCodeJavaProjects_f0a97c40"
+        },
+        {
+            "type": "java",
+            "name": "ValorReal",
+            "request": "launch",
+            "mainClass": "Exercicios.ValorReal",
+            "projectName": "VsCodeJavaProjects_f0a97c40"
+        },
+        {
+            "type": "java",
+            "name": "enquanto",
+            "request": "launch",
+            "mainClass": "Exercicios.enquanto",
+            "projectName": "VsCodeJavaProjects_f0a97c40"
+        },
+        {
+            "type": "java",
+            "name": "para",
+            "request": "launch",
+            "mainClass": "Exercicios.para",
+            "projectName": "VsCodeJavaProjects_f0a97c40"
+        },
+        {
+            "type": "java",
+            "name": "parimpar",
+            "request": "launch",
+            "mainClass": "logica.parimpar",
+            "projectName": "VsCodeJavaProjects_f0a97c40"
+        }
+    ]
+}
